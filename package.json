@@ -13,6 +13,7 @@
     "draggable": "^4.2.0",
     "echarts": "^4.7.0",
     "element-ui": "^2.13.1",
+    "mavon-editor": "^2.9.0",
     "nprogress": "^0.2.0",
     "vue": "^2.6.11",
     "vue-echarts": "^5.0.0-beta.0",
